@@ -1,0 +1,17 @@
+{
+    "name": "NeonX26",
+    "description": "All Social Handle links",
+    "version": "1.0",
+    "manifest_version": 3,
+    "action": {
+      "default_popup": "hello.html",
+      "default_icon": "./Images/link.png"
+    },
+    "icons": {
+      "16": "./Images/link.png",
+      "32": "images/link.png",
+      "48": "images/link.png",
+      "128": "images/link.png"
+    },
+    "permissions" : ["tabs"]
+  }
